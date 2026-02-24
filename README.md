@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/valeriacavalcanti/IP-ES-2026.1/refs/heads/main/images/ifpb_logo.jpeg" alt="Logo IFPB" width="200"/>
+  <img src="https://raw.githubusercontent.com/valeriacavalcanti/IP-ES-2026.1/refs/heads/master/images/ifpb_logo.jpeg" alt="Logo IFPB" width="200"/>
 
   # Introdução à Programação
   ### Engenharia de Software - [ 2026.1 ]
