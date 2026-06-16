@@ -1,0 +1,7 @@
+TSE (Conjuntos de Dados)
+
+https://sig.tse.jus.br/ords/dwapr/r/seai/sig-eleicao-arquivo/conjuntos-de-dados1
+
+Sistema de Informações Gerenciais (SIG) do Tribunal Superior Eleitoral (TSE) voltado para a disponibilização de conjuntos de dados eleitorais. Esses dados são públicos e podem ser baixados para análise, pesquisa ou desenvolvimento de aplicações.
+
+Os conjuntos de dados normalmente são disponibilizados em formatos como CSV e ZIP.
